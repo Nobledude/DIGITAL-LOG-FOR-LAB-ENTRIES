@@ -89,13 +89,13 @@ While this architecture is optimized for execution on low-spec systems without h
 
 ## 🤝 Contribution Guidelines
 
-Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 We are actively seeking enhancements in the following spaces:
 
-* Algorithmic Optimizations: Transitioning the flat database sequence from an O(N) sequential file sweep into an indexed **Hash Map** or **B-Tree** sorting schema to handle thousands of records in O(1) time.
+* Algorithmic Optimizations: Transitioning the flat database sequence from an O(N) sequential file sweep into an indexed Hash Map or B-Tree sorting schema to handle thousands of records in O(1) time.
 * Graphical or Web User Interfaces (GUI/WebUI): Wrapping the standard C engine into a cross-platform visual interface framework (like Qt) or exposing an API surface to connect to a local intranet web dashboard.
-* Dual Logging Support: Rewriting the entry workflow logic into a state machine that can detect if a student is checking *in* or checking *out*, enabling calculation of actual hours spent inside the lab.
+* Dual Logging Support: Rewriting the entry workflow logic into a state machine that can detect if a student is checking in or checking out, enabling calculation of actual hours spent inside the lab.
 * Enhanced Security Layers: Integrating modern hashing layers (like SHA-256) or config-driven authentication profiles to securely verify admin workflows instead of utilizing plain-text compilation macros.
 
 ### Steps to Contribute
